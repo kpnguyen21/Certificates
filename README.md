@@ -1,6 +1,6 @@
 # Coursera
 
-This repository consists notebooks for my Coursera courses and the certificates.
+This repository consists notebooks for my Coursera Data Science courses and certificates.
 
 [Introduction to Data Science in Python](https://www.coursera.org/learn/python-data-analysis)
 
