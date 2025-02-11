@@ -6,10 +6,33 @@ This repository consists notebooks for my Coursera Data Science courses and cert
 
 <ul>
     <li><a href="#Data Science">Data Science</a></li>
+    <ul>
+        <li>Introduction to Data Science in Python</li>
+        <li>Applied Machine Learning in Python</li>
+    </ul>
     <li><a href="#SQL">SQL & Tableau</a> </li>
+    <ul>
+        <li>SQL for Data Science</li>
+        <li>Databases and SQL for Data Science with Python</li>
+        <li>Fundamentals of Visualization with Tableau</li>
+    </ul>
     <li><a href="#Modeling">Modeling</a> </li>
+    <ul>
+        <li>Fundamentals of Quantitative Modeling</li>
+        <li>Decision-Making and Scenarios</li>
+        <li>Modeling Risks and Realities</li>
+        <li>Introduction to SpreadSheets and Models</li>
+    </ul>
     <li><a href="#Cloud Services">Cloud Services</a> </li>
+    <ul>
+        <li>Introduction to Microsoft Azure Cloud Services</li>
+        <li>AWS Cloud Technical Essentials</li>
+    </ul>
     <li><a href="#Others">Others</a> </li>
+    <ul>
+        <li>Introduction to Git and GitHub</li>
+        <li>Introduction to Microsoft 365 Copilot</li>
+    </ul>
 </ul>
 
 ---
@@ -67,6 +90,10 @@ This repository consists notebooks for my Coursera Data Science courses and cert
 [Introduction to Microsoft Azure Cloud Services](https://www.coursera.org/learn/microsoft-azure-cloud-services)
 
 ![Azure](Certificates/Azure_intro.jpg)
+
+[AWS Cloud Technical Essentials](https://www.coursera.org/learn/aws-cloud-technical-essentials?specialization=aws-fundamentals)
+
+![Azure](Certificates/AWS_introduction.jpg)
 
 ---
 
