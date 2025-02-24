@@ -9,6 +9,7 @@ This repository consists notebooks for my Coursera Data Science courses and cert
     <ul>
         <li>Introduction to Data Science in Python</li>
         <li>Applied Machine Learning in Python</li>
+        <li>Introduction to Big Data with Spark and Hadoop</li>
     </ul>
     <li><a href="#SQL">SQL & Tableau</a> </li>
     <ul>
@@ -46,6 +47,10 @@ This repository consists notebooks for my Coursera Data Science courses and cert
 [Applied Machine Learning in Python](https://www.coursera.org/learn/python-machine-learning?specialization=data-science-python)
 
 ![Applied_ML](Certificates/Applied_ML.jpg)
+
+[Introduction to Big Data with Spark and Hadoop](https://www.coursera.org/learn/introduction-to-big-data-with-spark-hadoop/home/module/7)
+
+![Hadoop](Certificates/Hadoop.jpg)
 
 ---
 
