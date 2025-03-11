@@ -1,4 +1,4 @@
-# Coursera
+# Certificates
 
 This repository consists notebooks for my Coursera Data Science courses and other certificates.
 
