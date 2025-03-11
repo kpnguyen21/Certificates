@@ -1,10 +1,15 @@
 # Coursera
 
-This repository consists notebooks for my Coursera Data Science courses and certificates.
+This repository consists notebooks for my Coursera Data Science courses and other certificates.
 
 <h2 id="Table-of-Contents">Table of Contents</h2>
 
 <ul>
+    <li><a href="#Erdos">The Erdős Institute</a></li>
+    <ul>
+        <li>Fall 2024 Data Science Boot Camp</li>
+        <li>May - Summer 2024 Data Science Boot Camp</li>
+    </ul>
     <li><a href="#Data Science">Data Science</a></li>
     <ul>
         <li>Introduction to Data Science in Python</li>
@@ -35,6 +40,18 @@ This repository consists notebooks for my Coursera Data Science courses and cert
         <li>Introduction to Microsoft 365 Copilot</li>
     </ul>
 </ul>
+
+---
+
+<h3 id="Erdos">The Erdős Institute</h3>
+
+[Fall 2024 Data Science Boot Camp](https://www.erdosinstitute.org/certificates/fall-2024/data-science-boot-camp/khanh-nguyen/ca368ce5-6cb3-41d0-b74a-1f3a050b9c44)
+
+![Fall 2024](Certificates/Erdos_Fall_2024.png)
+
+[May - Summer 2024 Data Science Boot Camp](https://www.erdosinstitute.org/certificates/may-summer-2024/data-science-boot-camp/khanh-nguyen)
+
+![May 2024](Certificates/Erdos_May_2024.png)
 
 ---
 
