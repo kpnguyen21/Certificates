@@ -34,6 +34,10 @@ This repository consists notebooks for my Coursera Data Science courses and othe
         <li>Introduction to Microsoft Azure Cloud Services</li>
         <li>AWS Cloud Technical Essentials</li>
     </ul>
+    <li><a href="#Languages">Languages</a> </li>
+    <ul>
+        <li>German A1.1</li>
+    </ul>
     <li><a href="#Others">Others</a> </li>
     <ul>
         <li>Introduction to Git and GitHub</li>
@@ -116,6 +120,14 @@ This repository consists notebooks for my Coursera Data Science courses and othe
 [AWS Cloud Technical Essentials](https://www.coursera.org/learn/aws-cloud-technical-essentials?specialization=aws-fundamentals)
 
 ![Azure](Certificates/AWS_introduction.jpg)
+
+---
+
+<h3 id="Languages">Languages</h3>
+
+German A1.1
+
+![German](Certificates/German_A11.png)
 
 ---
 
