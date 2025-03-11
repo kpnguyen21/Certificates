@@ -75,7 +75,7 @@ This repository consists notebooks for my Coursera Data Science courses and othe
 
 ---
 
-<h3 id="SQL">SQL</h3>
+<h3 id="SQL">SQL & Tableau</h3>
 
 [SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science)
 
