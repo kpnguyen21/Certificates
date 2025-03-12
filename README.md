@@ -34,14 +34,18 @@ This repository consists notebooks for my Coursera Data Science courses and othe
         <li>Introduction to Microsoft Azure Cloud Services</li>
         <li>AWS Cloud Technical Essentials</li>
     </ul>
+    <li><a href="#Version-Control">Version Control</a> </li>
+    <ul>
+        <li>Introduction to Git and GitHub</li>
+        <li>Getting Started with Git and GitHub</li>
+    </ul>
+    <li><a href="#CoPilot">CoPilot</a> </li>
+    <ul>
+        <li>Introduction to Microsoft 365 Copilot</li>
+    </ul>
     <li><a href="#Languages">Languages</a> </li>
     <ul>
         <li>German A1.1</li>
-    </ul>
-    <li><a href="#Others">Others</a> </li>
-    <ul>
-        <li>Introduction to Git and GitHub</li>
-        <li>Introduction to Microsoft 365 Copilot</li>
     </ul>
 </ul>
 
@@ -123,23 +127,32 @@ This repository consists notebooks for my Coursera Data Science courses and othe
 
 ---
 
+<h3 id="Version-Control">Version Control</h3>
+
+[Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
+
+![Git](Certificates/Git.jpg)
+
+[Getting Started with Git and GitHub](https://www.coursera.org/learn/getting-started-with-git-and-github/)
+
+![IBM_Git](Certificates/IBM_git.jpg)
+
+---
+
+<h3 id="CoPilot">CoPilot</h3>
+
+[Introduction to Microsoft 365 Copilot](https://www.coursera.org/learn/introduction-to-microsoft-365-copilot)
+
+![Copilot](Certificates/Copilot.jpg)
+
+---
+
 <h3 id="Languages">Languages</h3>
 
 German A1.1
 
 ![German](Certificates/German_A11.png)
 
----
-
-<h3 id="Others">Others</h3>
-
-[Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
-
-![Git](Certificates/Git.jpg)
-
-[Introduction to Microsoft 365 Copilot](https://www.coursera.org/learn/introduction-to-microsoft-365-copilot)
-
-![Copilot](Certificates/Copilot.jpg)
 
 ---
 
