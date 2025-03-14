@@ -42,6 +42,7 @@ This repository consists notebooks for my Coursera Data Science courses and othe
     <li><a href="#CoPilot">CoPilot</a> </li>
     <ul>
         <li>Introduction to Microsoft 365 Copilot</li>
+        <li>Generative AI for Data Science with Copilot</li>
     </ul>
     <li><a href="#Languages">Languages</a> </li>
     <ul>
@@ -144,6 +145,10 @@ This repository consists notebooks for my Coursera Data Science courses and othe
 [Introduction to Microsoft 365 Copilot](https://www.coursera.org/learn/introduction-to-microsoft-365-copilot)
 
 ![Copilot](Certificates/Copilot.jpg)
+
+[Generative AI for Data Science with Copilot](https://www.coursera.org/learn/generative-ai-for-data-science-with-copilot)
+
+![GenAI_Copilot](Certificates/GenAI_Copilot.jpg)
 
 ---
 
