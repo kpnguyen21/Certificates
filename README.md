@@ -45,6 +45,8 @@ This repository consists notebooks for my Coursera Data Science courses and othe
         <li>Introduction to Microsoft 365 Copilot</li>
         <li>Generative AI for Data Science with Copilot</li>
         <li>Data Preparation and Evaluation with Copilot</li>
+        <li>Data Analysis, Visualization, and Communication with Copilot</li>
+        <li>Generative AI for Data Scientists</li>
     </ul>
     <li><a href="#Languages">Languages</a> </li>
     <ul>
@@ -159,6 +161,15 @@ This repository consists notebooks for my Coursera Data Science courses and othe
 [Data Preparation and Evaluation with Copilot](https://www.coursera.org/learn/data-preparation-and-evaluation-with-copilot)
 
 ![Copilot_data_prep](Certificates/copilot_data_prep.jpg)
+
+[Data Analysis, Visualization, and Communication with Copilot](https://www.coursera.org/learn/data-analysis-visualization-and-communication-with-copilot)
+
+![Copilot_data_analysis](Certificates/copilot_data_analysis.jpg)
+
+[Generative AI for Data Scientists Specialization](https://www.coursera.org/specializations/microsoft-copilot-for-data-science)
+
+![GenAI](Certificates/GenAI.jpg)
+
 
 ---
 
