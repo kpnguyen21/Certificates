@@ -51,6 +51,18 @@ This repository consists notebooks for my Coursera Data Science courses and othe
     <li><a href="#Languages">Languages</a> </li>
     <ul>
         <li>German A1.1</li>
+        <li>ACTFL Oral Proficiency Interview (Vietnamese) – Advanced High</li>
+        <li>ACTFL Official WPT (Vietnamese) – Superior</li>
+    </ul>
+    <li><a href="#Workshops">Workshops</a></li>
+    <ul>
+        <li>Presenting Science Workshop</li>
+        <li>Rigor and Reproducibility Workshop</li>
+    </ul>
+    <li><a href="#Others">Others</a></li>
+    <ul>
+        <li>Outstanding Presentation Certificate</li>
+        <li>CRLA - Certified Tutor Level II</li>
     </ul>
 </ul>
 
@@ -179,8 +191,36 @@ German A1.1
 
 ![German](Certificates/German_A11.png)
 
+ACTFL Oral Proficiency Interview (Vietnamese) – Advanced High
+
+![Oral_viet](Certificates/viet_oral.jpg)
+
+ACTFL Official WPT (Vietnamese) – Superior
+
+![Writing_viet](Certificates/viet_writing.jpg)
+
+
 
 ---
 
+<h3 id="Workshops">Workshops</h3>
 
+Presenting Science Workshop
 
+![Presenting_science](Certificates/presenting_science.jpg)
+
+Rigor and Reproducibility Workshop
+
+![Rigor](Certificates/rigor.jpg)
+
+---
+
+<h3 id="Others">Others</h3>
+
+Outstanding Presentation Certificate
+
+![Presenting_science](Certificates/best_presentation.jpg)
+
+CRLA - Certified Tutor Level II
+
+![Rigor](Certificates/tutor.jpg)
