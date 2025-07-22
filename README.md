@@ -62,7 +62,9 @@ This repository consists notebooks for my Coursera Data Science courses and othe
     <li><a href="#Others">Others</a></li>
     <ul>
         <li>Outstanding Presentation Certificate</li>
+        <li>CRLA - Certified Tutor Level I</li>
         <li>CRLA - Certified Tutor Level II</li>
+        <li>AP Scholar with Honor Award</li>
     </ul>
 </ul>
 
@@ -223,4 +225,12 @@ Outstanding Presentation Certificate
 
 CRLA - Certified Tutor Level II
 
-![Rigor](Certificates/tutor.jpg)
+![Tutor_2](Certificates/tutor.jpg)
+
+CRLA - Certified Tutor Level I
+
+![Tutor_1](Certificates/tutor_1.jpg)
+
+AP Scholar with Honor Award
+
+![AP](Certificates/AP.jpg)
