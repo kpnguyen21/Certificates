@@ -7,6 +7,7 @@ This repository consists notebooks for my Coursera Data Science courses and othe
 <ul>
     <li><a href="#Erdos">The Erdős Institute</a></li>
     <ul>
+        <li>Fall 2025 Deep Learning Boot Camp</li>
         <li>Spring 2025 UX Research Boot Camp</li>
         <li>Fall 2024 Data Science Boot Camp</li>
         <li>May - Summer 2024 Data Science Boot Camp</li>
@@ -71,6 +72,10 @@ This repository consists notebooks for my Coursera Data Science courses and othe
 ---
 
 <h3 id="Erdos">The Erdős Institute</h3>
+
+[Fall 2025 Deep Learning Boot Camp](https://www.erdosinstitute.org/certificates/fall-2025/deep-learning-boot-camp/khanh-nguyen/a8cb524c-77bb-45bf-9e2e-0d8ea015f79a)
+
+![Fall_2025](Certificates/erdos_deep_learning.JPG)
 
 [Spring 2025 UX Research Boot Camp](https://www.erdosinstitute.org/certificates/spring-2025/ux-research-boot-camp/khanh-nguyen/968ce7b0-acfc-4bed-9bc4-b0e0701677f4)
 
