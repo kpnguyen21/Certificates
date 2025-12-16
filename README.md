@@ -20,6 +20,7 @@ This repository consists notebooks for my Coursera Data Science courses and othe
     </ul>
     <li><a href="#SQL">SQL & Tableau</a> </li>
     <ul>
+        <li>SQL Problem Solving</li>
         <li>SQL for Data Science</li>
         <li>Databases and SQL for Data Science with Python</li>
         <li>Fundamentals of Visualization with Tableau</li>
@@ -108,6 +109,10 @@ This repository consists notebooks for my Coursera Data Science courses and othe
 ---
 
 <h3 id="SQL">SQL & Tableau</h3>
+
+[SQL Problem Solving](https://www.coursera.org/learn/data-wrangling-analysis-abtesting)
+
+![SQL_PS](Certificates/SQL_problem_solving.jpg)
 
 [SQL for Data Science](https://www.coursera.org/learn/sql-for-data-science)
 
