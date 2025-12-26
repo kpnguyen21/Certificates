@@ -34,6 +34,7 @@ This repository consists notebooks for my Coursera Data Science courses and othe
     </ul>
     <li><a href="#Cloud Services">Cloud Services</a> </li>
     <ul>
+        <li>Introduction to Cloud Computing</li>
         <li>Introduction to Microsoft Azure Cloud Services</li>
         <li>AWS Cloud Technical Essentials</li>
     </ul>
@@ -149,6 +150,10 @@ This repository consists notebooks for my Coursera Data Science courses and othe
 ---
 
 <h3 id="Cloud Services">Cloud Services</h3>
+
+[Introduction to Cloud Computing](https://www.coursera.org/learn/introduction-to-cloud?specialization=devops-and-software-engineering)
+
+![IBM_Cloud](Certificates/ibm_cloud_computing.jpg)
 
 [Introduction to Microsoft Azure Cloud Services](https://www.coursera.org/learn/microsoft-azure-cloud-services)
 
