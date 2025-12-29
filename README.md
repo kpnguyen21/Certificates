@@ -38,8 +38,9 @@ This repository consists notebooks for my Coursera Data Science courses and othe
         <li>Introduction to Microsoft Azure Cloud Services</li>
         <li>AWS Cloud Technical Essentials</li>
     </ul>
-    <li><a href="#Version-Control">Version Control</a> </li>
+    <li><a href="#Dev-Ops">Dev-Ops</a> </li>
     <ul>
+        <li>Introduction to DevOps</li>
         <li>Introduction to Git and GitHub</li>
         <li>Getting Started with Git and GitHub</li>
     </ul>
@@ -165,7 +166,11 @@ This repository consists notebooks for my Coursera Data Science courses and othe
 
 ---
 
-<h3 id="Version-Control">Version Control</h3>
+<h3 id="Dev-Ops">Dev-Ops</h3>
+
+[Introduction to DevOps](https://www.coursera.org/learn/intro-to-devops?specialization=devops-and-software-engineering)
+
+![intro_devops](Certificates/IBM_devops.jpg)
 
 [Introduction to Git and GitHub](https://www.coursera.org/learn/introduction-git-github)
 
