@@ -40,6 +40,7 @@ This repository consists notebooks for my Coursera Data Science courses and othe
     </ul>
     <li><a href="#Dev-Ops">Dev-Ops</a> </li>
     <ul>
+        <li>Hands-on Introduction to Linux Commands and Shell Scripting</li>
         <li>Introduction to DevOps</li>
         <li>Introduction to Git and GitHub</li>
         <li>Getting Started with Git and GitHub</li>
@@ -167,6 +168,10 @@ This repository consists notebooks for my Coursera Data Science courses and othe
 ---
 
 <h3 id="Dev-Ops">Dev-Ops</h3>
+
+[Hands-on Introduction to Linux Commands and Shell Scripting](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting?specialization=devops-and-software-engineering)
+
+![shell](Certificates/shell.jpg)
 
 [Introduction to DevOps](https://www.coursera.org/learn/intro-to-devops?specialization=devops-and-software-engineering)
 
